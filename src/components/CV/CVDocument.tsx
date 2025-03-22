@@ -151,7 +151,7 @@ const CVDocument: React.FC = () => {
         color="pink-500" 
       />
     </div>
-                  <InfoItem icon={MapPin} text="xã Hà Hội, huyện Thường Tín, Hà Nội" />
+                  <InfoItem icon={MapPin} text="xã Hà Hồi, huyện Thường Tín, Hà Nội" />
                 </div>
               </div>
               
